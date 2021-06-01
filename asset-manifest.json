@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile-card/static/css/main.7a9e47cd.chunk.css",
+    "main.js": "/profile-card/static/js/main.ef8b683e.chunk.js",
+    "main.js.map": "/profile-card/static/js/main.ef8b683e.chunk.js.map",
+    "runtime-main.js": "/profile-card/static/js/runtime-main.72a8b687.js",
+    "runtime-main.js.map": "/profile-card/static/js/runtime-main.72a8b687.js.map",
+    "static/js/2.9665c0bc.chunk.js": "/profile-card/static/js/2.9665c0bc.chunk.js",
+    "static/js/2.9665c0bc.chunk.js.map": "/profile-card/static/js/2.9665c0bc.chunk.js.map",
+    "static/js/3.c35f7851.chunk.js": "/profile-card/static/js/3.c35f7851.chunk.js",
+    "static/js/3.c35f7851.chunk.js.map": "/profile-card/static/js/3.c35f7851.chunk.js.map",
+    "index.html": "/profile-card/index.html",
+    "static/css/main.7a9e47cd.chunk.css.map": "/profile-card/static/css/main.7a9e47cd.chunk.css.map",
+    "static/js/2.9665c0bc.chunk.js.LICENSE.txt": "/profile-card/static/js/2.9665c0bc.chunk.js.LICENSE.txt",
+    "static/media/clear-logo.8cf2f0bf.png": "/profile-card/static/media/clear-logo.8cf2f0bf.png",
+    "static/media/profile.13ee72af.jpg": "/profile-card/static/media/profile.13ee72af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72a8b687.js",
+    "static/js/2.9665c0bc.chunk.js",
+    "static/css/main.7a9e47cd.chunk.css",
+    "static/js/main.ef8b683e.chunk.js"
+  ]
+}
